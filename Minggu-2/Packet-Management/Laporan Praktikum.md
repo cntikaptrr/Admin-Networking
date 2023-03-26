@@ -7,8 +7,11 @@ Dosen Pengampu :
 Dr. Ferry Astika Saputra ST, M.Sc
 
 Nama : Cantika Putri Romadhona 
+
 Kelas : 2 D4 IT B
+
 NRP : 3121600051
+
 
 **DEPARTEMEN TEKNIK INFORMATIKA DAN TEKNIK KOMPUTER**
 
