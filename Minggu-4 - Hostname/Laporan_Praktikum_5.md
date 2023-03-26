@@ -10,9 +10,9 @@
     <br/><br/>
     <p>
    <br/>
-    Nama : Nicholaus Adhyatma Surya Kusuma <br/>
+    Nama : Cantika Putri Romadhona <br/>
     Kelas : 2 D4 IT B <br/>
-    NRP : 3121600049 <br/> 
+    NRP : 3121600051 <br/> 
     </p>
   </p>
 </div>
