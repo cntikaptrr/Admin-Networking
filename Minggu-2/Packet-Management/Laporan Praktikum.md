@@ -6,9 +6,11 @@ Dosen Pengampu :
 
 Dr. Ferry Astika Saputra ST, M.Sc
 
-Nama : Nicholaus Adhyatma Surya Kusuma Kelas : 2 D4 IT B
+Nama : Cantika Putri Romadhona 
 
-NRP : 3121600049
+Kelas : 2 D4 IT B
+
+NRP : 3121600051
 
 **DEPARTEMEN TEKNIK INFORMATIKA DAN TEKNIK KOMPUTER**
 
